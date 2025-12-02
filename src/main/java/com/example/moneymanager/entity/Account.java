@@ -10,8 +10,7 @@ public class Account {
     private Long id;
     private String name;
     private Long balance;
-
     private User user;
-    private String prathamesh;
+
 
 }
