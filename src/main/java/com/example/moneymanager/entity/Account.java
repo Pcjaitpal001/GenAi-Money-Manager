@@ -11,6 +11,6 @@ public class Account {
     private String name;
     private Long balance;
 
-    private User user;
+    //private User user;
 
 }
